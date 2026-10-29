@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nanalab.kr/newsom-says/sitemap.xml
